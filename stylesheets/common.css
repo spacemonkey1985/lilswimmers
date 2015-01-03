@@ -1,0 +1,41 @@
+body{
+	PADDING-RIGHT: 0px; 
+	PADDING-LEFT: 0px; 
+	BACKGROUND-COLOR: #000000; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	COLOR: #ffffff; 
+	PADDING-TOP: 0px; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+textarea{
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+h1{
+	color: #ffffff;
+	font-size: 28pt;
+	font-weight: lighter;
+	padding-top: 30px;
+}
+h1 a{
+	color: #54a4da;
+	font-size: 28pt;
+	font-weight: lighter;
+	padding-top: 30px;
+	text-decoration: none;
+}
+h1 a:hover{
+	color: #a1d1f1;
+	font-size: 28pt;
+	font-weight: lighter;
+	padding-top: 30px;
+	text-decoration:underline;
+}
+h1 a:visited{
+	color: #54a4da;
+	font-size: 28pt;
+	font-weight: lighter;
+	padding-top: 30px;
+	text-decoration: none;
+}
